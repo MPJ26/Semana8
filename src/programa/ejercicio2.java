@@ -1,6 +1,6 @@
 package programa;
 import java.util.Scanner;
-public class tarea1 {
+public class ejercicio2 {
     public static void main (String args []){
         //DECLARACION DE VARIABLE
         String texto;

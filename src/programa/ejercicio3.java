@@ -1,6 +1,6 @@
 package programa;
 import java.util.Scanner;
-public class tarea2 {
+public class ejercicio3 {
     public static void main (String args []){
     //DECLARACION DE VARIABLE
         int contador = 0;
